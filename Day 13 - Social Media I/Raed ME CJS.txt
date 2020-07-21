@@ -1,0 +1,1 @@
+Need to install Lombok for Eclipse following instructions here https://www.baeldung.com/lombok-ide
